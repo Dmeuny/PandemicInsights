@@ -1,4 +1,4 @@
-# PandemicInsights
+# Pandemic Insights
 Collection of Covid SQL Queries For Dashboard
 
 
